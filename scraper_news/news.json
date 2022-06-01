@@ -1,3 +1,11 @@
 {
-  "tv2": []
+  "tv2": [
+    {
+      "id": "6741ebdcbd554159c5bf4df0426cdcf5f7a2296f",
+      "title": "Hans Redder: - Det er en form for jordskredssejr",
+      "url": "http://nyheder.tv2.dk/live/2022-06-01-afstemning-om-forsvarsforbeholdet",
+      "is_breaking": true,
+      "time_saved": "2022-06-01 - 20:24:42"
+    }
+  ]
 }
