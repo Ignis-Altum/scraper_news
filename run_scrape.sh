@@ -10,4 +10,3 @@ git add scraper_news/news.json
 git commit -m "New news"
 
 git push origin main
-
