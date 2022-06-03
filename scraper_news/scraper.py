@@ -83,6 +83,6 @@ def request_url(url: str) -> requests.models.Response:
 
 def is_news_id_saved(news_id: str, news_seq: int, saved_news: List[dict]) -> bool:
     for news in saved_news:
-        if news["id"] == news_id and news["seq"] == news_seq:
+        if news["id"] == news_id or news["seq"] == news_seq:
             return True
     return False
