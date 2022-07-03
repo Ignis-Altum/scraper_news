@@ -871,6 +871,22 @@
       "is_breaking": true,
       "seq": 102528,
       "time_saved": "2022-07-03 - 20:00:03"
+    },
+    {
+      "id": "63cfb5f37e6d611102c75ec29a8144cb7c0e2153",
+      "title": "Flere dræbte ved skyderi i Field's",
+      "url": "http://nyheder.tv2.dk/krimi/2022-07-03-flere-draebte-ved-skyderi-i-fields",
+      "is_breaking": true,
+      "seq": 102563,
+      "time_saved": "2022-07-03 - 21:00:02"
+    },
+    {
+      "id": "a94e35be6a97c0ab962e3bfc67e1787b566340e4",
+      "title": "Flere er dræbt ved skyderiet i storcenter",
+      "url": "http://nyheder.tv2.dk/live/2022-07-03-skyderi-i-fields-storcenter",
+      "is_breaking": true,
+      "seq": 102557,
+      "time_saved": "2022-07-03 - 21:00:02"
     }
   ]
 }
