@@ -1007,6 +1007,22 @@
       "is_breaking": true,
       "seq": 102720,
       "time_saved": "2022-07-04 - 12:00:02"
+    },
+    {
+      "id": "a94e35be6a97c0ab962e3bfc67e1787b566340e4",
+      "title": "Mette Frederiksen: Ualmindeligt brutalt angreb",
+      "url": "http://nyheder.tv2.dk/live/2022-07-03-skyderi-i-fields-storcenter",
+      "is_breaking": true,
+      "seq": 102745,
+      "time_saved": "2022-07-04 - 13:00:02"
+    },
+    {
+      "id": "021515118058d7ee179b8ee4fd6f5385ef7a9910",
+      "title": "SAS bekræfter pilotstrejke",
+      "url": "http://nyheder.tv2.dk/business/2022-07-04-sas-bekraefter-pilotstrejke",
+      "is_breaking": true,
+      "seq": 102737,
+      "time_saved": "2022-07-04 - 13:00:02"
     }
   ]
 }
