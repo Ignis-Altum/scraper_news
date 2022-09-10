@@ -2361,6 +2361,14 @@
       "is_breaking": false,
       "seq": "Sat, 10 Sep 2022 20:41:00 GMT",
       "time_saved": "2022-09-11 - 00:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:267de363-db31-4c71-9d91-1504a9448c45",
+      "title": "Polsk tennisstjerne vinder US Open",
+      "url": "https://www.dr.dk/sporten/seneste-sport/polsk-tennisstjerne-vinder-us-open",
+      "is_breaking": false,
+      "seq": "Sat, 10 Sep 2022 22:08:00 GMT",
+      "time_saved": "2022-09-11 - 01:00:03"
     }
   ]
 }
