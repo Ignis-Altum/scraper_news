@@ -2337,6 +2337,14 @@
       "is_breaking": false,
       "seq": "Sat, 10 Sep 2022 09:19:00 GMT",
       "time_saved": "2022-09-10 - 20:34:02"
+    },
+    {
+      "id": "urn:dr:drupal:article:03e46e0e-fc68-48f3-8d61-3858dac5e458",
+      "title": "",
+      "url": "https://www.dr.dk/sporten/seneste-sport/storspillende-dansker-stryger-til-tops-i-prestigefyldt-golfturnering",
+      "is_breaking": false,
+      "seq": "Sat, 10 Sep 2022 18:39:00 GMT",
+      "time_saved": "2022-09-10 - 21:00:05"
     }
   ]
 }
