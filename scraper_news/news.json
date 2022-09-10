@@ -2361,6 +2361,14 @@
       "is_breaking": false,
       "seq": "Sat, 10 Sep 2022 19:01:00 GMT",
       "time_saved": "2022-09-10 - 21:09:07"
+    },
+    {
+      "id": "urn:dr:drupal:article:b61a6557-7d43-4b71-97a8-a6359678a75b",
+      "title": "",
+      "url": "https://www.dr.dk/nyheder/seneste/meningsmaalinger-viser-doedt-loeb-inden-svensk-valg-i-morgen",
+      "is_breaking": false,
+      "seq": "Sat, 10 Sep 2022 19:42:00 GMT",
+      "time_saved": "2022-09-10 - 22:00:03"
     }
   ]
 }
