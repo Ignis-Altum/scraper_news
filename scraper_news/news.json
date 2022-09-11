@@ -2425,6 +2425,30 @@
       "is_breaking": false,
       "seq": "Sun, 11 Sep 2022 06:05:00 GMT",
       "time_saved": "2022-09-11 - 09:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:8f43dc25-1d1c-451a-abb7-dde6550a100f",
+      "title": "Græske pensionister kan få mere i pension for første gang i over et årti",
+      "url": "https://www.dr.dk/nyheder/seneste/graeske-pensionister-kan-faa-mere-i-pension-foerste-gang-i-over-et-aarti",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 07:35:00 GMT",
+      "time_saved": "2022-09-11 - 10:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:b874ef6a-5c0f-4376-a3a6-f44908ccb362",
+      "title": "Sjette og sidste reaktor på atomkraftværk i Ukraine er blevet frakoblet elnettet",
+      "url": "https://www.dr.dk/nyheder/seneste/sjette-og-sidste-reaktor-paa-atomkraftvaerk-i-ukraine-er-blevet-frakoblet-elnettet",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 07:21:00 GMT",
+      "time_saved": "2022-09-11 - 10:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:9fbc34a2-3d8b-4008-99ae-1bcc1933ad9a",
+      "title": "Søndag kan byde på op til 20 grader",
+      "url": "https://www.dr.dk/nyheder/seneste/soendag-kan-byde-paa-op-til-20-grader",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 07:10:00 GMT",
+      "time_saved": "2022-09-11 - 10:00:03"
     }
   ]
 }
