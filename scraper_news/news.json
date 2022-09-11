@@ -2593,6 +2593,22 @@
       "is_breaking": false,
       "seq": "Sun, 11 Sep 2022 18:08:00 GMT",
       "time_saved": "2022-09-11 - 21:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:f87acb73-ef01-4ee2-a7cd-bb49202df52c",
+      "title": "Strømafbrydelser i flere regioner i Ukraine, men optimismen spirer efter generobringer",
+      "url": "https://www.dr.dk/nyheder/seneste/stroemafbrydelser-i-flere-regioner-i-ukraine-men-optimismen-spirer-efter",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 19:41:00 GMT",
+      "time_saved": "2022-09-11 - 22:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:e4b33496-bc96-4f0e-844f-2ed5acda7ef3",
+      "title": "Dansk bryder taber VM-finale til forsvarende verdensmester",
+      "url": "https://www.dr.dk/sporten/seneste-sport/dansk-bryder-taber-vm-finale-til-forsvarende-verdensmester",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 19:10:00 GMT",
+      "time_saved": "2022-09-11 - 22:00:03"
     }
   ]
 }
