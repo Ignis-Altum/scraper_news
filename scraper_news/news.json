@@ -2569,6 +2569,30 @@
       "is_breaking": false,
       "seq": "Sun, 11 Sep 2022 17:43:00 GMT",
       "time_saved": "2022-09-11 - 20:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:039fae02-1be1-484f-b76c-843da2984882",
+      "title": "Dansk golfspiller leverer topresultat i stor turnering",
+      "url": "https://www.dr.dk/sporten/seneste-sport/dansk-golfspiller-leverer-topresultat-i-stor-turnering",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 18:37:00 GMT",
+      "time_saved": "2022-09-11 - 21:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:16b7b91e-060a-41b9-92c8-26e99b77e95c",
+      "title": "Mads Pedersen cementerer pointtrøje med andenplads på sidste Vuelta-etape",
+      "url": "https://www.dr.dk/sporten/seneste-sport/mads-pedersen-cementerer-pointtroeje-med-andenplads-paa-sidste-vuelta-etape",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 18:16:00 GMT",
+      "time_saved": "2022-09-11 - 21:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:10574f06-dffc-4e8f-ab9e-6c7f91efc8d3",
+      "title": "Valgstederne er lukkede i Sverige",
+      "url": "https://www.dr.dk/nyheder/seneste/valgstederne-er-lukkede-i-sverige",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 18:08:00 GMT",
+      "time_saved": "2022-09-11 - 21:00:03"
     }
   ]
 }
