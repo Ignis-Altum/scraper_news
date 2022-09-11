@@ -2481,6 +2481,30 @@
       "is_breaking": false,
       "seq": "Sun, 11 Sep 2022 10:03:00 GMT",
       "time_saved": "2022-09-11 - 13:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:d714c01c-590a-4326-9f94-0cbd6fef8cd4",
+      "title": "Cecilie Uttrup Ludwig bliver nummer fem i Vuelta a Espana",
+      "url": "https://www.dr.dk/sporten/seneste-sport/cecilie-uttrup-ludwig-bliver-nummer-fem-i-vuelta-espana",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 12:58:00 GMT",
+      "time_saved": "2022-09-11 - 15:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:da628bda-6192-4eec-868f-285472e8dc34",
+      "title": "Matilde Kimer: Nyheden om lynoffensiv giver ukrainerne et kæmpe boost",
+      "url": "https://www.dr.dk/nyheder/seneste/matilde-kimer-nyheden-om-lynoffensiv-giver-ukrainerne-et-kaempe-boost",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 12:44:00 GMT",
+      "time_saved": "2022-09-11 - 15:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:ea32aa8c-16aa-47b2-9a77-ceb955fc31ad",
+      "title": "Fem døde i jordskælv på Papua Ny Guinea",
+      "url": "https://www.dr.dk/nyheder/seneste/fem-doede-i-jordskaelv-paa-papua-ny-guinea",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 12:32:00 GMT",
+      "time_saved": "2022-09-11 - 15:00:03"
     }
   ]
 }
