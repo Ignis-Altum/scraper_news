@@ -2513,6 +2513,30 @@
       "is_breaking": false,
       "seq": "Sun, 11 Sep 2022 13:16:00 GMT",
       "time_saved": "2022-09-11 - 16:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:403940c6-8513-4096-ae61-2544d16402c5",
+      "title": "USA mindes 9/11",
+      "url": "https://www.dr.dk/nyheder/seneste/usa-mindes-911",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 14:56:00 GMT",
+      "time_saved": "2022-09-11 - 17:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:114b21ef-f1b1-4f4e-8993-cdc91ed2ed71",
+      "title": "Straffesparksmål i overtiden afværger ny Midtjylland-skuffelse",
+      "url": "https://www.dr.dk/sporten/seneste-sport/straffesparksmaal-dybt-i-overtiden-afvaerger-ny-midtjylland-skuffelse",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 14:42:00 GMT",
+      "time_saved": "2022-09-11 - 17:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:54fbf0e5-118b-4aa1-abb2-1cb80f233526",
+      "title": "R kan ikke støtte regering med Rwanda-aftale - hverken før eller efter et valg",
+      "url": "https://www.dr.dk/nyheder/seneste/r-kan-ikke-stoette-regering-med-rwanda-aftale-hverken-foer-eller-efter-et-valg",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 13:59:00 GMT",
+      "time_saved": "2022-09-11 - 17:00:03"
     }
   ]
 }
