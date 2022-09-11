@@ -2609,6 +2609,22 @@
       "is_breaking": false,
       "seq": "Sun, 11 Sep 2022 19:10:00 GMT",
       "time_saved": "2022-09-11 - 22:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:a7e54063-bde2-47f8-b755-168324a8d31e",
+      "title": "Svensk valg er neglebidende tæt",
+      "url": "https://www.dr.dk/nyheder/seneste/svensk-valg-er-neglebidende-taet",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 21:24:00 GMT",
+      "time_saved": "2022-09-12 - 00:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:62c17836-4e18-4566-a385-094159fe5602",
+      "title": "Tusindvis var på gaden for at protestere mod pride parade i Beograd",
+      "url": "https://www.dr.dk/nyheder/seneste/tusindvis-var-paa-gaden-protestere-mod-pride-parade-i-beograd",
+      "is_breaking": false,
+      "seq": "Sun, 11 Sep 2022 21:03:00 GMT",
+      "time_saved": "2022-09-12 - 00:00:03"
     }
   ]
 }
