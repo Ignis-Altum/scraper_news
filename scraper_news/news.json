@@ -2641,6 +2641,38 @@
       "is_breaking": false,
       "seq": "Mon, 12 Sep 2022 03:31:00 GMT",
       "time_saved": "2022-09-12 - 06:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:f4ad8ec3-7565-4ecf-950b-47ec57a6d0f5",
+      "title": "Vejret mandag: Dagen bliver skyet og mest tør",
+      "url": "https://www.dr.dk/nyheder/seneste/vejret-mandag-dagen-bliver-skyet-og-mest-toer",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 04:30:00 GMT",
+      "time_saved": "2022-09-12 - 07:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:fd4176da-945b-46f0-85cc-083179b002cf",
+      "title": "Spansk teenager vinder US Open og er nu nummer 1 i verden",
+      "url": "https://www.dr.dk/nyheder/seneste/spansk-teenager-vinder-us-open-og-er-nu-nummer-1-i-verden",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 04:23:00 GMT",
+      "time_saved": "2022-09-12 - 07:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:f0dc8c0a-393f-467c-9bdf-e17755f5d9cb",
+      "title": "Zelenskyj hylder ukrainske soldater efter befrielse af vigtig by",
+      "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-hylder-ukrainske-soldater-efter-befrielse-af-vigtig",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 04:03:00 GMT",
+      "time_saved": "2022-09-12 - 07:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:b37161d5-676c-416a-afc7-93b37a486a18",
+      "title": "Vinder af svensk valg ventes først om et par dage",
+      "url": "https://www.dr.dk/nyheder/seneste/vinder-af-svensk-ventes-foerst-om-et-par-dage",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 03:44:00 GMT",
+      "time_saved": "2022-09-12 - 07:00:03"
     }
   ]
 }
