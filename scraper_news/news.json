@@ -3073,6 +3073,22 @@
       "is_breaking": false,
       "seq": "Mon, 12 Sep 2022 19:15:00 GMT",
       "time_saved": "2022-09-12 - 22:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:4b1120f4-3a65-4d9f-bbf3-49511881d319",
+      "title": "24-årig mand død efter skyderi i København",
+      "url": "https://www.dr.dk/nyheder/seneste/24-aarig-mand-doed-efter-skyderi-paa-frederikssundsvej",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 20:37:00 GMT",
+      "time_saved": "2022-09-12 - 23:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:ced5450e-18fb-4c6c-b4c6-0f96f735a2c4",
+      "title": "Sparerunde på Frederiksberg: Slut med stort cykelløb",
+      "url": "https://www.dr.dk/nyheder/seneste/sparerunde-paa-frederiksberg-slut-med-stort-cykelloeb",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 20:29:00 GMT",
+      "time_saved": "2022-09-12 - 23:00:03"
     }
   ]
 }
