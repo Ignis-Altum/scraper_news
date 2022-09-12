@@ -2191,6 +2191,14 @@
       "is_breaking": true,
       "seq": 104648,
       "time_saved": "2022-09-12 - 10:00:02"
+    },
+    {
+      "id": "d610e69d3d44ecc965fcb2c54902de0854668302",
+      "title": "Dansk fejl i udbyttesagen koster dyrt - bagmand kan ikke udleveres",
+      "url": "http://nyheder.tv2.dk/samfund/2022-09-12-dansk-fejl-i-udbyttesagen-koster-dyrt-bagmand-kan-ikke-udleveres",
+      "is_breaking": true,
+      "seq": 104655,
+      "time_saved": "2022-09-12 - 14:00:03"
     }
   ],
   "dr": [
@@ -2825,6 +2833,46 @@
       "is_breaking": false,
       "seq": "Mon, 12 Sep 2022 10:10:00 GMT",
       "time_saved": "2022-09-12 - 13:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:cdca59c6-6414-43e2-ab63-7c08c96ad553",
+      "title": "Kong Charles III forpligter sig til at følge i sine mors royale fodspor ",
+      "url": "https://www.dr.dk/nyheder/seneste/kong-charles-iii-forpligter-sig-til-foelge-i-sine-mors-royale-fodspor",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 11:43:00 GMT",
+      "time_saved": "2022-09-12 - 14:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:21d572f7-b2bf-4ff5-9930-db1f3b4dd787",
+      "title": "Københavnsk homobar modtog bombetrussel over telefonen",
+      "url": "https://www.dr.dk/nyheder/seneste/koebenhavnsk-homobar-modtog-bombetrussel-over-telefonen",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 11:38:00 GMT",
+      "time_saved": "2022-09-12 - 14:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:f05d9fb0-3125-4a4b-9c29-4a7b57c79589",
+      "title": "New Zealands premierminister siger 'nej' til, at landet bliver en republik",
+      "url": "https://www.dr.dk/nyheder/seneste/new-zealands-premierminister-siger-nej-til-landet-bliver-en-republik",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 11:31:00 GMT",
+      "time_saved": "2022-09-12 - 14:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:de08dcd6-bf3e-4935-b81b-fbeeda2aec10",
+      "title": "Champions League-kamp flyttes på grund af manglende politi ",
+      "url": "https://www.dr.dk/sporten/seneste-sport/champions-league-kamp-flyttes-paa-grund-af-manglende-politi",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 11:25:00 GMT",
+      "time_saved": "2022-09-12 - 14:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:0d38819b-4dc8-4cc7-9754-b0a9709d63e6",
+      "title": "Hotel d'Angleterres traditionelle julelys-hilsen spares væk i år",
+      "url": "https://www.dr.dk/nyheder/seneste/hotel-dangleterres-traditionelle-julelys-hilsen-spares-vaek-i-aar",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 10:18:00 GMT",
+      "time_saved": "2022-09-12 - 14:00:04"
     }
   ]
 }
