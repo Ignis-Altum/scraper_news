@@ -2937,6 +2937,38 @@
       "is_breaking": false,
       "seq": "Mon, 12 Sep 2022 14:33:00 GMT",
       "time_saved": "2022-09-12 - 17:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:2b7a6046-f040-47f9-802b-3f7b7f72517c",
+      "title": "To sjældne hajunger svømmer rundt i Kattegatcentret",
+      "url": "https://www.dr.dk/nyheder/seneste/sjaeldne-hajunger-svoemmer-rundt-i-kattegatcentret",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 15:56:00 GMT",
+      "time_saved": "2022-09-12 - 18:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:7dae8d21-84e3-41e7-958c-21e043eed7f4",
+      "title": "Helsingør Kommune skal undersøges efter whistleblowerhenvendelse",
+      "url": "https://www.dr.dk/nyheder/seneste/helsingoer-kommune-skal-undersoeges-efter-whistleblowerhenvendelse",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 15:47:00 GMT",
+      "time_saved": "2022-09-12 - 18:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:4f3699e5-72a8-4d8a-bf5a-eb334ed793cb",
+      "title": "Næsten alle stemmer i Sverige er nu talt op: Minimalt borgerligt flertal",
+      "url": "https://www.dr.dk/nyheder/seneste/naesten-alle-stemmer-i-sverige-er-nu-talt-op-minimalt-borgerligt-flertal",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 15:42:00 GMT",
+      "time_saved": "2022-09-12 - 18:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:2e8408f7-0180-4f72-9e77-61efb1f823ac",
+      "title": "Kontraktløse Diego Costa er igen på holdkortet i Premier League ",
+      "url": "https://www.dr.dk/sporten/seneste-sport/kontrakloese-diego-costa-er-igen-paa-holdkortet-i-premier-league",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 13:22:00 GMT",
+      "time_saved": "2022-09-12 - 18:00:03"
     }
   ]
 }
