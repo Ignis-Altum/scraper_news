@@ -2913,6 +2913,30 @@
       "is_breaking": false,
       "seq": "Mon, 12 Sep 2022 13:15:00 GMT",
       "time_saved": "2022-09-12 - 16:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:9eba7c45-98e1-4b07-83c6-a78feb0e7197",
+      "title": "Politiet har anholdt 15-årig dreng for bombetrussel mod homobar",
+      "url": "https://www.dr.dk/nyheder/seneste/politiet-har-anholdt-15-aarig-dreng-bombetrussel-mod-homobar",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 14:43:00 GMT",
+      "time_saved": "2022-09-12 - 17:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:6f259f5a-7eb8-4467-87ea-1d09e4a494d9",
+      "title": "Nu køres dronning Elizabeths kiste gennem Edinburgh",
+      "url": "https://www.dr.dk/nyheder/seneste/nu-koeres-dronning-elizabeths-kiste-gennem-edinburgh",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 14:35:00 GMT",
+      "time_saved": "2022-09-12 - 17:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:37a111d0-d895-410e-95f5-9aad5a22de69",
+      "title": "Justistsminister: Shah-afgørelse skal appelleres, hvis der er grundlag for det",
+      "url": "https://www.dr.dk/nyheder/seneste/justistsminister-shah-afgoerelse-skal-appelleres-hvis-der-er-grundlag-det",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 14:33:00 GMT",
+      "time_saved": "2022-09-12 - 17:00:03"
     }
   ]
 }
