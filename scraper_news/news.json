@@ -3041,6 +3041,38 @@
       "is_breaking": false,
       "seq": "Mon, 12 Sep 2022 14:33:00 GMT",
       "time_saved": "2022-09-12 - 21:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:37a30e61-1032-4490-8c90-eed490ea6aa5",
+      "title": "En person er ramt af skud i København",
+      "url": "https://www.dr.dk/nyheder/seneste/en-person-er-ramt-af-skud-i-koebenhavn",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 19:35:00 GMT",
+      "time_saved": "2022-09-12 - 22:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:6e022a64-f376-43e0-97a3-11fb9767d865",
+      "title": "Lufthansa: Flybilletter bliver aldrig så billige som før corona",
+      "url": "https://www.dr.dk/nyheder/seneste/lufthansa-flybilletter-bliver-aldrig-saa-billige-som-foer-corona",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 19:25:00 GMT",
+      "time_saved": "2022-09-12 - 22:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:c76e7a1b-854f-4163-8b72-38ea65ccd771",
+      "title": "Viborg FF kravler op på Superligaens tredjeplads",
+      "url": "https://www.dr.dk/sporten/seneste-sport/viborg-ff-kravler-op-paa-superligaens-tredjeplads",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 19:18:00 GMT",
+      "time_saved": "2022-09-12 - 22:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:39e94ad9-c7bc-4c0f-8fb3-751f1cef90e7",
+      "title": "Ny forskning: 10.000 skridt om dagen gør virkelig en forskel i forhold til kræft og demens",
+      "url": "https://www.dr.dk/nyheder/seneste/ny-forskning-10000-skridt-om-dagen-goer-virkelig-en-forskel-i-forhold-til-kraeft-og",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 19:15:00 GMT",
+      "time_saved": "2022-09-12 - 22:00:04"
     }
   ]
 }
