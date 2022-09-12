@@ -2889,6 +2889,30 @@
       "is_breaking": false,
       "seq": "Mon, 12 Sep 2022 12:37:00 GMT",
       "time_saved": "2022-09-12 - 15:00:10"
+    },
+    {
+      "id": "urn:dr:drupal:article:daab1480-595b-40b6-a35e-ac8660d0b3e6",
+      "title": "Konservative udelukker ikke kernekraft",
+      "url": "https://www.dr.dk/nyheder/seneste/konservative-udelukker-ikke-kernekraft",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 13:40:00 GMT",
+      "time_saved": "2022-09-12 - 16:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:2e8408f7-0180-4f72-9e77-61efb1f823ac",
+      "title": "Kontrakløse Diego Costa er igen på holdkortet i Premier League ",
+      "url": "https://www.dr.dk/sporten/seneste-sport/kontrakloese-diego-costa-er-igen-paa-holdkortet-i-premier-league",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 13:22:00 GMT",
+      "time_saved": "2022-09-12 - 16:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:9fd26c38-0992-49c4-a980-ee6ed74cfe23",
+      "title": "Ny rapport: 50 millioner mennesker lever i moderne slaveri",
+      "url": "https://www.dr.dk/nyheder/seneste/ny-rapport-50-millioner-mennesker-lever-i-moderne-slaveri",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 13:15:00 GMT",
+      "time_saved": "2022-09-12 - 16:00:04"
     }
   ]
 }
