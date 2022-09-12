@@ -2175,6 +2175,14 @@
       "is_breaking": true,
       "seq": 104612,
       "time_saved": "2022-09-10 - 14:00:03"
+    },
+    {
+      "id": "e04a876ee90aa2c0693b68ac67b8b769b0206fa0",
+      "title": "Nye tal - priserne fortsætter himmelflugt",
+      "url": "http://nyheder.tv2.dk/business/2022-09-12-nye-tal-priserne-fortsaetter-himmelflugt",
+      "is_breaking": true,
+      "seq": 104633,
+      "time_saved": "2022-09-12 - 09:00:02"
     }
   ],
   "dr": [
@@ -2681,6 +2689,38 @@
       "is_breaking": false,
       "seq": "Mon, 12 Sep 2022 05:41:00 GMT",
       "time_saved": "2022-09-12 - 08:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:d92948f8-1592-4984-96a3-1d8988dbbbbc",
+      "title": "Blå partier i brev til Mette Frederiksen: 'Udskriv det valg nu'",
+      "url": "https://www.dr.dk/nyheder/seneste/blaa-partier-i-brev-til-mette-frederiksen-udskriv-det-valg-nu",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 06:50:00 GMT",
+      "time_saved": "2022-09-12 - 09:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:d05e0550-ea66-497f-abd2-17375ab1fc88",
+      "title": "Kilder i Donetsk: Flere dræbte og sårede efter ukrainsk beskydning",
+      "url": "https://www.dr.dk/nyheder/seneste/kilder-i-donetsk-flere-draebte-og-saarede-efter-ukrainsk-beskydning-0",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 06:42:00 GMT",
+      "time_saved": "2022-09-12 - 09:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:761f121e-9b1a-43b3-96fe-54233ebf36c7",
+      "title": "Lovforslag om 'tryghedsvagter' er sendt i høring ",
+      "url": "https://www.dr.dk/nyheder/seneste/lovforslag-om-tryghedsvagter-er-sendt-i-hoering",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 06:37:00 GMT",
+      "time_saved": "2022-09-12 - 09:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:26919c08-c4ce-4350-9a1f-730810ee067d",
+      "title": "Nye tal for prisstigninger er de højeste siden 1983",
+      "url": "https://www.dr.dk/nyheder/seneste/nye-tal-prisstigninger-er-de-hoejeste-siden-1983",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 06:17:00 GMT",
+      "time_saved": "2022-09-12 - 09:00:03"
     }
   ]
 }
