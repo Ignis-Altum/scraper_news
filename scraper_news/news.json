@@ -2785,6 +2785,22 @@
       "is_breaking": false,
       "seq": "Mon, 12 Sep 2022 08:26:00 GMT",
       "time_saved": "2022-09-12 - 11:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:fe932af8-7727-402d-8a3b-252f9f9ce6e4",
+      "title": "Billet-firma får bøde på to millioner kroner for vildledende markedsføring",
+      "url": "https://www.dr.dk/nyheder/seneste/billet-firma-faar-boede-paa-millioner-kroner-vildledende-markedsfoering",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 09:31:00 GMT",
+      "time_saved": "2022-09-12 - 12:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:2b777006-3ee2-41d0-a0f3-aeb79e539838",
+      "title": "Kilder i Donetsk: Flere dræbte og sårede efter ukrainsk beskydning",
+      "url": "https://www.dr.dk/nyheder/seneste/kilder-i-donetsk-flere-draebte-og-saarede-efter-ukrainsk-beskydning",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 09:11:00 GMT",
+      "time_saved": "2022-09-12 - 12:00:03"
     }
   ]
 }
