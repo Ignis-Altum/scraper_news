@@ -2969,6 +2969,38 @@
       "is_breaking": false,
       "seq": "Mon, 12 Sep 2022 13:22:00 GMT",
       "time_saved": "2022-09-12 - 18:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:db815b08-73e7-43cb-a3e8-3e8f4a60e6a3",
+      "title": "Premier League vender tilbage, men storkamp udskydes",
+      "url": "https://www.dr.dk/sporten/seneste-sport/premier-league-vender-tilbage-men-storkamp-udskydes",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 16:55:00 GMT",
+      "time_saved": "2022-09-12 - 19:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:664d5e82-2fbf-4cf0-873e-27e02458604f",
+      "title": "Fødevarestyrelsen: Molslaboratoriet kan ikke bebrejdes i sag om voldsom bedækning",
+      "url": "https://www.dr.dk/nyheder/seneste/foedevarestyrelsen-molslaboratoriet-kan-ikke-bebrejdes-i-sag-om-voldsom-bedaekning",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 16:37:00 GMT",
+      "time_saved": "2022-09-12 - 19:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:7d9f79cf-3a26-474d-a3de-f639a412723c",
+      "title": "Ny boostervaccine på vej til efterårets vaccineprogram",
+      "url": "https://www.dr.dk/nyheder/seneste/ny-boostervaccine-paa-vej-til-efteraarets-vaccineprogram",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 16:22:00 GMT",
+      "time_saved": "2022-09-12 - 19:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:e3bbe8e7-0b70-4033-9187-9224c10b9ef3",
+      "title": "Esbern Snare sættes ind i Natos styrker på højt beredskab",
+      "url": "https://www.dr.dk/nyheder/seneste/esbern-snare-saettes-ind-i-natos-styrker-paa-hoejt-beredskab",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 16:17:00 GMT",
+      "time_saved": "2022-09-12 - 19:00:03"
     }
   ]
 }
