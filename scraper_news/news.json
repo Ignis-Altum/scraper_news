@@ -3017,6 +3017,30 @@
       "is_breaking": false,
       "seq": "Mon, 12 Sep 2022 17:38:00 GMT",
       "time_saved": "2022-09-12 - 20:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:54fc2fc9-637b-486c-bc41-c3ada27ed4f1",
+      "title": "Mørk jul på Amager: Populær vej slukker for lyset i år",
+      "url": "https://www.dr.dk/nyheder/seneste/moerk-jul-paa-amager-populaer-vej-slukker-lyset-i-aar",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 18:27:00 GMT",
+      "time_saved": "2022-09-12 - 21:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:34b3f7f2-fa9f-4d3e-85f9-742e52e4c90d",
+      "title": "Fejlslået tur ud i rummet for Jeff Bezos' raket",
+      "url": "https://www.dr.dk/nyheder/seneste/fejlslaaen-tur-ud-i-rummet-jeff-bezos-raket",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 18:10:00 GMT",
+      "time_saved": "2022-09-12 - 21:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:37a111d0-d895-410e-95f5-9aad5a22de69",
+      "title": "Justitsminister: Shah-afgørelse skal appelleres, hvis der er grundlag for det",
+      "url": "https://www.dr.dk/nyheder/seneste/justistsminister-shah-afgoerelse-skal-appelleres-hvis-der-er-grundlag-det",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 14:33:00 GMT",
+      "time_saved": "2022-09-12 - 21:00:03"
     }
   ]
 }
