@@ -2801,6 +2801,30 @@
       "is_breaking": false,
       "seq": "Mon, 12 Sep 2022 09:11:00 GMT",
       "time_saved": "2022-09-12 - 12:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:eae47838-045e-43f6-9f24-3ee5ec4a10af",
+      "title": "Dronefoto af københavnske 'kartoffelrækker' vinder international pris",
+      "url": "https://www.dr.dk/nyheder/seneste/dronefoto-af-koebenhavnske-kartoffelraekker-vinder-international-pris",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 10:36:00 GMT",
+      "time_saved": "2022-09-12 - 13:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:0d38819b-4dc8-4cc7-9754-b0a9709d63e6",
+      "title": "Hotel D'Angleterres traditionelle julelys-hilsen spares væk i år",
+      "url": "https://www.dr.dk/nyheder/seneste/hotel-dangleterres-traditionelle-julelys-hilsen-spares-vaek-i-aar",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 10:18:00 GMT",
+      "time_saved": "2022-09-12 - 13:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:f09053bc-cdcf-499f-a491-d27934590226",
+      "title": "I morgen ruller bolden igen i Englands næstbedste række",
+      "url": "https://www.dr.dk/nyheder/seneste/i-morgen-ruller-bolden-igen-i-englands-naestbedste-raekke",
+      "is_breaking": false,
+      "seq": "Mon, 12 Sep 2022 10:10:00 GMT",
+      "time_saved": "2022-09-12 - 13:00:03"
     }
   ]
 }
