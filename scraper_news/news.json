@@ -3177,6 +3177,22 @@
       "is_breaking": false,
       "seq": "Tue, 13 Sep 2022 06:59:00 GMT",
       "time_saved": "2022-09-13 - 10:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:5eae6040-132b-4325-a71b-4ace927ed224",
+      "title": "49 meldes dræbt i sammenstød mellem Aserbajdsjan og Armenien",
+      "url": "https://www.dr.dk/nyheder/seneste/49-meldes-draebt-i-sammenstoed-mellem-aserbajdsjan-og-armenien",
+      "is_breaking": false,
+      "seq": "Tue, 13 Sep 2022 08:53:00 GMT",
+      "time_saved": "2022-09-13 - 11:00:06"
+    },
+    {
+      "id": "urn:dr:drupal:article:9bae6160-e423-4a42-8407-42e54dce91c2",
+      "title": "Fransk filmskaber er død 91 år gammel",
+      "url": "https://www.dr.dk/nyheder/seneste/fransk-filmskaber-er-doed-91-aar-gammel",
+      "is_breaking": false,
+      "seq": "Tue, 13 Sep 2022 08:45:00 GMT",
+      "time_saved": "2022-09-13 - 11:00:06"
     }
   ]
 }
