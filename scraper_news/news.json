@@ -3393,6 +3393,22 @@
       "is_breaking": false,
       "seq": "Tue, 13 Sep 2022 18:14:00 GMT",
       "time_saved": "2022-09-13 - 21:00:05"
+    },
+    {
+      "id": "urn:dr:drupal:article:0ca3f991-9926-4b1f-8174-8bc29f60fe93",
+      "title": "Boston Marathon åbner klasse for nonbinære løbere",
+      "url": "https://www.dr.dk/nyheder/seneste/boston-marathon-aabner-klasse-nonbinaere-loebere",
+      "is_breaking": false,
+      "seq": "Tue, 13 Sep 2022 19:25:00 GMT",
+      "time_saved": "2022-09-13 - 22:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:68097091-86c0-4107-a1d4-edc4f562d24d",
+      "title": "Coop samler SuperBrugsen og Kvickly i én kæde",
+      "url": "https://www.dr.dk/nyheder/seneste/coop-samler-superbrugsen-og-kvickly-i-en-kaede",
+      "is_breaking": false,
+      "seq": "Tue, 13 Sep 2022 19:11:00 GMT",
+      "time_saved": "2022-09-13 - 22:00:03"
     }
   ]
 }
