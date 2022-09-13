@@ -3289,6 +3289,22 @@
       "is_breaking": false,
       "seq": "Tue, 13 Sep 2022 13:32:00 GMT",
       "time_saved": "2022-09-13 - 16:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:f99dd404-eda5-42ec-8dec-bc5bbd4eed68",
+      "title": "Mistænkt i sag om drabsforsøg anholdt i udlandet",
+      "url": "https://www.dr.dk/nyheder/seneste/mistaenkt-i-sag-om-drabsforsoeg-anholdt-i-udlandet",
+      "is_breaking": false,
+      "seq": "Tue, 13 Sep 2022 14:48:00 GMT",
+      "time_saved": "2022-09-13 - 17:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:5df58eb1-57d1-4482-a2ca-936edfd672e6",
+      "title": "Nødværgeafgørelse i travbanedrabet ankes til landsretten",
+      "url": "https://www.dr.dk/nyheder/seneste/noedvaergeafgoerelse-i-travbanedrabet-ankes-til-landsretten",
+      "is_breaking": false,
+      "seq": "Tue, 13 Sep 2022 14:29:00 GMT",
+      "time_saved": "2022-09-13 - 17:00:03"
     }
   ]
 }
