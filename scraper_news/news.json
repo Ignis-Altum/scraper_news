@@ -3417,6 +3417,46 @@
       "is_breaking": false,
       "seq": "Tue, 13 Sep 2022 20:02:00 GMT",
       "time_saved": "2022-09-13 - 23:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:76a3bcd6-5487-4443-8000-da3eb5c575ec",
+      "title": "Anklageren i Clinton-Lewinsky-sagen er død",
+      "url": "https://www.dr.dk/nyheder/seneste/anklageren-i-clinton-lewinsky-sagen-er-doed",
+      "is_breaking": false,
+      "seq": "Tue, 13 Sep 2022 21:58:00 GMT",
+      "time_saved": "2022-09-14 - 00:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:33e47369-92d4-4956-9baf-bd40b044ebe2",
+      "title": "Serbiske myndigheder forbyder stor Pride-parade",
+      "url": "https://www.dr.dk/nyheder/seneste/serbiske-myndigheder-forbyder-stor-pride-parade",
+      "is_breaking": false,
+      "seq": "Tue, 13 Sep 2022 21:39:00 GMT",
+      "time_saved": "2022-09-14 - 00:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:ea730f28-3edb-4740-97fa-e4087cac6d09",
+      "title": "Tysk tankpasser-morder idømt livsvarigt fængsel",
+      "url": "https://www.dr.dk/nyheder/seneste/tysk-tankpasser-morder-idoemt-livsvarigt-faengsel",
+      "is_breaking": false,
+      "seq": "Tue, 13 Sep 2022 21:36:00 GMT",
+      "time_saved": "2022-09-14 - 00:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:be17a2d4-91bb-477d-afd8-2107025344a5",
+      "title": "Bayern München dukkede FC Barcelona på hjemmebane i Champions League",
+      "url": "https://www.dr.dk/sporten/seneste-sport/bayern-munchen-dukkede-fc-barcelona-paa-hjemmebane-i-champions-league",
+      "is_breaking": false,
+      "seq": "Tue, 13 Sep 2022 21:12:00 GMT",
+      "time_saved": "2022-09-14 - 00:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:af3e5311-8eee-4c2a-9a86-7f4f0260111c",
+      "title": "Dansk landsholdsspiller sørger for CL-succes til Frankfurt",
+      "url": "https://www.dr.dk/sporten/seneste-sport/dansk-landsholdsspiller-soerger-cl-succes-til-frankfurt",
+      "is_breaking": false,
+      "seq": "Tue, 13 Sep 2022 21:08:00 GMT",
+      "time_saved": "2022-09-14 - 00:00:03"
     }
   ]
 }
