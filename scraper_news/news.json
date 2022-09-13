@@ -3089,6 +3089,22 @@
       "is_breaking": false,
       "seq": "Mon, 12 Sep 2022 20:29:00 GMT",
       "time_saved": "2022-09-12 - 23:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:f8740154-a16e-4f82-8cf6-04053616b038",
+      "title": "Sydkoreansk skuespiller vinder Emmy i historisk triumf",
+      "url": "https://www.dr.dk/nyheder/seneste/sydkoreansk-skuespiller-vinder-emmy-i-historisk-triumf",
+      "is_breaking": false,
+      "seq": "Tue, 13 Sep 2022 03:34:00 GMT",
+      "time_saved": "2022-09-13 - 06:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:3a641dd5-8a95-40d7-9db3-99433f93ecd4",
+      "title": "Flere soldater dræbt på grænsen til Armenien",
+      "url": "https://www.dr.dk/nyheder/seneste/flere-soldater-draebt-paa-graensen-til-armenien",
+      "is_breaking": false,
+      "seq": "Tue, 13 Sep 2022 03:25:00 GMT",
+      "time_saved": "2022-09-13 - 06:00:03"
     }
   ]
 }
