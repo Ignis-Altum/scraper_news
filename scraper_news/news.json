@@ -3457,6 +3457,22 @@
       "is_breaking": false,
       "seq": "Tue, 13 Sep 2022 21:08:00 GMT",
       "time_saved": "2022-09-14 - 00:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:efbdccae-728c-4bb3-95dc-5cf74464cb7b",
+      "title": "Regionernes budgetaftaler for næste år er på plads",
+      "url": "https://www.dr.dk/nyheder/seneste/regionernes-budgetaftaler-naeste-aar-er-paa-plads",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 03:51:00 GMT",
+      "time_saved": "2022-09-14 - 06:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:21d09f9f-7d17-44d5-bc6a-b6c32b9238f7",
+      "title": "Tysklands regering sælger statens sidste aktier i Lufthansa",
+      "url": "https://www.dr.dk/nyheder/seneste/tysklands-regering-saelger-statens-sidste-aktier-i-lufthansa",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 03:28:00 GMT",
+      "time_saved": "2022-09-14 - 06:00:04"
     }
   ]
 }
