@@ -3473,6 +3473,22 @@
       "is_breaking": false,
       "seq": "Wed, 14 Sep 2022 03:28:00 GMT",
       "time_saved": "2022-09-14 - 06:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:ad2d287d-7d92-4f90-9a95-964fde887db0",
+      "title": "Onsdag giver endnu en omgang efterårsvejr",
+      "url": "https://www.dr.dk/nyheder/seneste/onsdag-giver-endnu-en-omgang-efteraarsvejr",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 04:46:00 GMT",
+      "time_saved": "2022-09-14 - 07:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:75b0c041-fa62-4152-893a-0e6e7a42ad06",
+      "title": "161 personer har fået et nattelivsforbud det første år",
+      "url": "https://www.dr.dk/nyheder/seneste/161-personer-har-faaet-et-nattelivsforbud-det-foerste-aar",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 04:30:00 GMT",
+      "time_saved": "2022-09-14 - 07:00:04"
     }
   ]
 }
