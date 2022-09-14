@@ -3873,6 +3873,38 @@
       "is_breaking": false,
       "seq": "Wed, 14 Sep 2022 19:30:00 GMT",
       "time_saved": "2022-09-14 - 22:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:0d1e8325-5561-449f-92c2-ab0c1ff6506b",
+      "title": "FCK spiller uafgjort med Sevilla",
+      "url": "https://www.dr.dk/sporten/seneste-sport/fck-spiller-uafgjort-med-sevilla",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 20:54:00 GMT",
+      "time_saved": "2022-09-14 - 23:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:0176f02c-8031-44ef-b926-9d406d667f57",
+      "title": "GOG banker Zagreb i første Champions League-kamp",
+      "url": "https://www.dr.dk/sporten/seneste-sport/gog-banker-zagreb-i-foerste-champions-league-kamp",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 20:51:00 GMT",
+      "time_saved": "2022-09-14 - 23:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:84a06e60-9db3-4333-94bd-78f42656bacb",
+      "title": "Partislogans og politiske kampagner fylder i gadebilledet",
+      "url": "https://www.dr.dk/nyheder/seneste/partislogans-og-politiske-kampagner-fylder-i-gadebilledet",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 20:33:00 GMT",
+      "time_saved": "2022-09-14 - 23:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:74131aa2-d7dc-4cf8-8bb6-e310057f3f14",
+      "title": "Energiselskab: Fejl, at tidligere kunder stadig bliver opkrævet store beløb",
+      "url": "https://www.dr.dk/nyheder/seneste/energiselskab-fejl-tidligere-kunder-stadig-bliver-opkraevet-store-beloeb",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 20:04:00 GMT",
+      "time_saved": "2022-09-14 - 23:00:03"
     }
   ]
 }
