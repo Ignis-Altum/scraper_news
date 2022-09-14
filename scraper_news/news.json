@@ -3545,6 +3545,38 @@
       "is_breaking": false,
       "seq": "Wed, 14 Sep 2022 06:15:00 GMT",
       "time_saved": "2022-09-14 - 09:00:06"
+    },
+    {
+      "id": "urn:dr:drupal:article:e6b88247-bc6d-4ef5-a3f9-e2cf3924f073",
+      "title": "Region Nordjylland håber på flere penge fra staten",
+      "url": "https://www.dr.dk/nyheder/seneste/region-nordjylland-beder-staten-om-flere-penge",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 07:49:00 GMT",
+      "time_saved": "2022-09-14 - 10:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:e388c660-5a08-428f-a4d6-dbdd1824bd72",
+      "title": "EU-formand: Loft over energiprofit skal hjælpe europæerne gennem krisen",
+      "url": "https://www.dr.dk/nyheder/seneste/eu-formand-loft-over-energiprofit-skal-hjaelpe-europaeerne-gennem-krisen",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 07:45:00 GMT",
+      "time_saved": "2022-09-14 - 10:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:106bc8df-ac13-438e-9efa-48ecbbe61cfb",
+      "title": "Ursula von der Leyen: Putin vil fejle, og Europa vil sejre",
+      "url": "https://www.dr.dk/nyheder/seneste/ursula-von-der-leyen-putin-vil-fejle-og-europa-vil-sejre",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 07:28:00 GMT",
+      "time_saved": "2022-09-14 - 10:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:ba5251a4-b448-437d-9097-60f2a821fb51",
+      "title": "Kraftig tyfon ventes at ramme det østlige Kina onsdag",
+      "url": "https://www.dr.dk/nyheder/seneste/kraftig-tyfon-ventes-ramme-det-oestlige-kina-onsdag",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 07:27:00 GMT",
+      "time_saved": "2022-09-14 - 10:00:03"
     }
   ]
 }
