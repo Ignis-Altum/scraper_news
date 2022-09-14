@@ -3529,6 +3529,22 @@
       "is_breaking": false,
       "seq": "Wed, 14 Sep 2022 05:01:00 GMT",
       "time_saved": "2022-09-14 - 08:00:07"
+    },
+    {
+      "id": "urn:dr:drupal:article:b6f1de55-63c4-45b1-9283-1a3ad34af552",
+      "title": "Grønlands regering har nu en plan for at ændre tidszone",
+      "url": "https://www.dr.dk/nyheder/seneste/groenlands-regering-har-nu-en-plan-aendre-tidszone",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 06:29:00 GMT",
+      "time_saved": "2022-09-14 - 09:00:06"
+    },
+    {
+      "id": "urn:dr:drupal:article:79eb9960-a6c4-4669-8609-31926954b728",
+      "title": "Folk stimlede sammen for at se dronning Elizabeths kiste ankomme til London",
+      "url": "https://www.dr.dk/nyheder/seneste/folk-stimlede-sammen-se-dronning-elizabeths-kiste-ankomme-til-london",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 06:15:00 GMT",
+      "time_saved": "2022-09-14 - 09:00:06"
     }
   ]
 }
