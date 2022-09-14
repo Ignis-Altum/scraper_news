@@ -3825,6 +3825,38 @@
       "is_breaking": false,
       "seq": "Wed, 14 Sep 2022 17:34:00 GMT",
       "time_saved": "2022-09-14 - 20:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:c4f2e3ec-d8b0-4122-8456-95b6410bb434",
+      "title": "Magnus Heunicke skal i samråd om benamputationer i Region Sjælland",
+      "url": "https://www.dr.dk/nyheder/seneste/magnus-heunicke-skal-i-samraad-om-benamputationer-i-region-sjaelland",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 18:43:00 GMT",
+      "time_saved": "2022-09-14 - 21:00:09"
+    },
+    {
+      "id": "urn:dr:drupal:article:15bf9906-9587-4f88-ab99-9e8b7ee1f412",
+      "title": "Scholz: Putin ser stadig ikke invasionen som en fejl",
+      "url": "https://www.dr.dk/nyheder/seneste/scholz-putin-ser-stadig-ikke-invasionen-som-en-fejl",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 18:37:00 GMT",
+      "time_saved": "2022-09-14 - 21:00:09"
+    },
+    {
+      "id": "urn:dr:drupal:article:2988451a-c670-44ff-becd-48ae5a50eabb",
+      "title": "Kommission talte ikke med skoleledere før forslag om tørklædeforbud",
+      "url": "https://www.dr.dk/nyheder/seneste/kommission-talte-ikke-med-skoleledere-foer-forslag-om-toerklaedeforbud",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 18:21:00 GMT",
+      "time_saved": "2022-09-14 - 21:00:09"
+    },
+    {
+      "id": "urn:dr:drupal:article:8ff438a6-918a-46e9-a1b6-561c6ccc364f",
+      "title": "Ulf Kristersson: 'Jeg vil samle, ikke dele'",
+      "url": "https://www.dr.dk/nyheder/seneste/ulf-kristersson-jeg-vil-samle-ikke-dele",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 18:08:00 GMT",
+      "time_saved": "2022-09-14 - 21:00:09"
     }
   ]
 }
