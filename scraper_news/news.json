@@ -3809,6 +3809,22 @@
       "is_breaking": false,
       "seq": "Wed, 14 Sep 2022 16:07:00 GMT",
       "time_saved": "2022-09-14 - 19:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:62ca5d36-a2a0-4a11-a4d6-0ddc6cd55102",
+      "title": "Sverigedemokraternes Åkesson jubler over valgresultat",
+      "url": "https://www.dr.dk/nyheder/seneste/sverigedemokraternes-aakesson-jubler-over-valgresultat",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 17:52:00 GMT",
+      "time_saved": "2022-09-14 - 20:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:ea7d4e7a-f921-4340-871d-46b30104bbfe",
+      "title": "Svensk statsminister erkender valgnederlag",
+      "url": "https://www.dr.dk/nyheder/seneste/svensk-statsminister-erkender-valgnederlag",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 17:34:00 GMT",
+      "time_saved": "2022-09-14 - 20:00:04"
     }
   ]
 }
