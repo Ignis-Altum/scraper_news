@@ -2215,6 +2215,14 @@
       "is_breaking": true,
       "seq": 104677,
       "time_saved": "2022-09-14 - 08:00:06"
+    },
+    {
+      "id": "d92cf51eb3beebc1e9ded40dc0e169d37a2e9285",
+      "title": "Tre mænd frifindes i sag om trusler og brændende Mette Frederiksen-dukke",
+      "url": "http://nyheder.tv2.dk/krimi/2022-09-13-tre-maend-frifindes-i-sag-om-trusler-og-braendende-mette-frederiksen-dukke",
+      "is_breaking": true,
+      "seq": 104688,
+      "time_saved": "2022-09-14 - 12:00:03"
     }
   ],
   "dr": [
@@ -3593,6 +3601,46 @@
       "is_breaking": false,
       "seq": "Wed, 14 Sep 2022 07:51:00 GMT",
       "time_saved": "2022-09-14 - 11:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:1e170929-f02d-4456-96fa-3d503b185b7c",
+      "title": "Drabsmand flygtede fra skyderi i vandpibebutik på cykel",
+      "url": "https://www.dr.dk/nyheder/seneste/drabsmand-flygtede-fra-skyderi-i-vandpibebutik-paa-cykel",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 09:25:00 GMT",
+      "time_saved": "2022-09-14 - 12:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:1d1b3960-6719-4ddd-8d70-d97f561a6fb4",
+      "title": "Google taber appelsag og skal betale millardbøde",
+      "url": "https://www.dr.dk/nyheder/seneste/google-taber-appelsag-og-skal-betale-millardboede",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 09:24:00 GMT",
+      "time_saved": "2022-09-14 - 12:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:0322b97c-954b-4a60-902a-32f34c11779f",
+      "title": "Briter har ligget i kø natten for at vise dronning Elizabeth den sidste respekt",
+      "url": "https://www.dr.dk/nyheder/seneste/briter-har-ligget-i-koe-natten-vise-dronning-elizabeth-den-sidste-respekt",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 09:23:00 GMT",
+      "time_saved": "2022-09-14 - 12:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:7beda8e5-9ea8-4af4-892e-30048ddca191",
+      "title": "Dukkesagen: Tre mænd frifindes for trusler mod statsministeren",
+      "url": "https://www.dr.dk/nyheder/seneste/dukkesagen-tre-maend-frifindes-trusler-mod-statsministeren",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 09:03:00 GMT",
+      "time_saved": "2022-09-14 - 12:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:7ef3b6a9-3b6b-494d-8506-4f24d247c5e3",
+      "title": "Alternativet åbner for samarbejde med de øvrige grønne partier",
+      "url": "https://www.dr.dk/nyheder/seneste/alternativet-aabner-samarbejde-med-de-oevrige-groenne-partier",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 08:59:00 GMT",
+      "time_saved": "2022-09-14 - 12:00:04"
     }
   ]
 }
