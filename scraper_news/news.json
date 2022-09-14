@@ -3641,6 +3641,38 @@
       "is_breaking": false,
       "seq": "Wed, 14 Sep 2022 08:59:00 GMT",
       "time_saved": "2022-09-14 - 12:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:1cd9e3a1-49d1-4ec7-babc-f8d9ff85fd02",
+      "title": "Vingegaard klar til første løb siden Tour de France-triumfen",
+      "url": "https://www.dr.dk/sporten/seneste-sport/vingegaard-klar-til-foerste-loeb-siden-tour-de-france-triumfen",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 10:39:00 GMT",
+      "time_saved": "2022-09-14 - 13:00:05"
+    },
+    {
+      "id": "urn:dr:drupal:article:36365950-0b68-4e81-b338-9550e6225f61",
+      "title": "Folketingets Ombudsmand spørger ind til mail til ansatte hos Nyborg Kommune",
+      "url": "https://www.dr.dk/nyheder/seneste/folketingets-ombudsmand-spoerger-ind-til-mail-til-ansatte-hos-nyborg-kommune",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 10:25:00 GMT",
+      "time_saved": "2022-09-14 - 13:00:05"
+    },
+    {
+      "id": "urn:dr:drupal:article:dcf05c1c-1597-4d13-8464-6f73ebf51042",
+      "title": "Strejke tvinger Air France til aflysninger",
+      "url": "https://www.dr.dk/nyheder/seneste/strejke-tvinger-air-france-til-aflysninger",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 10:13:00 GMT",
+      "time_saved": "2022-09-14 - 13:00:05"
+    },
+    {
+      "id": "urn:dr:drupal:article:ee750343-b6f1-4f2d-bb58-e57576fa95e6",
+      "title": "Konservativ ordfører om Papes skilsmisse: 'En svær, men nødvendig beslutning'",
+      "url": "https://www.dr.dk/nyheder/seneste/konservativ-ordfoerer-om-papes-skilsmisse-en-svaer-men-noedvendig-beslutning",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 10:01:00 GMT",
+      "time_saved": "2022-09-14 - 13:00:05"
     }
   ]
 }
