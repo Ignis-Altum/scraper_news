@@ -2239,6 +2239,14 @@
       "is_breaking": true,
       "seq": 104719,
       "time_saved": "2022-09-14 - 14:00:05"
+    },
+    {
+      "id": "a99545599f5d2caea213a89ae97176a79ec84b44",
+      "title": "Bagermester skuffet over regeringen - Vi er i krise",
+      "url": "http://nyheder.tv2.dk/live/2022-09-14-seneste-nyt-om-energikrisen",
+      "is_breaking": true,
+      "seq": 104737,
+      "time_saved": "2022-09-14 - 15:00:03"
     }
   ],
   "dr": [
@@ -3713,6 +3721,22 @@
       "is_breaking": false,
       "seq": "Wed, 14 Sep 2022 11:06:00 GMT",
       "time_saved": "2022-09-14 - 14:00:05"
+    },
+    {
+      "id": "urn:dr:drupal:article:3bb08652-17ac-4616-b021-c2dba555692e",
+      "title": "Overvejer at anke dom efter frifindelse for trusler i dukkesag",
+      "url": "https://www.dr.dk/nyheder/seneste/overvejer-anke-dom-efter-frifindelse-trusler-i-dukkesag",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 12:31:00 GMT",
+      "time_saved": "2022-09-14 - 15:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:074aea21-3793-480d-8e2a-58197e9a07e9",
+      "title": "Hvad skal det koste at udskyde energiregninger? 'Det skal være en rente, som er rimelig'",
+      "url": "https://www.dr.dk/nyheder/seneste/hvad-skal-det-koste-udskyde-energiregninger-det-skal-vaere-en-rente-som-er-rimelig",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 12:20:00 GMT",
+      "time_saved": "2022-09-14 - 15:00:04"
     }
   ]
 }
