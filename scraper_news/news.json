@@ -2207,6 +2207,14 @@
       "is_breaking": true,
       "seq": 104664,
       "time_saved": "2022-09-13 - 18:00:07"
+    },
+    {
+      "id": "72f91735e378ad960f742b7cfac7924aa6a9a8bf",
+      "title": "Pape skal skilles",
+      "url": "http://nyheder.tv2.dk/2022-09-14-pape-skal-skilles",
+      "is_breaking": true,
+      "seq": 104677,
+      "time_saved": "2022-09-14 - 08:00:06"
     }
   ],
   "dr": [
@@ -3489,6 +3497,38 @@
       "is_breaking": false,
       "seq": "Wed, 14 Sep 2022 04:30:00 GMT",
       "time_saved": "2022-09-14 - 07:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:69b3e26b-c12c-4e73-acd3-97eedc08383f",
+      "title": "Statsministeriet holder pressemøde om stigende energipriser klokken 13",
+      "url": "https://www.dr.dk/nyheder/seneste/statsministeriet-holder-pressemoede-om-stigende-energipriser",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 05:45:00 GMT",
+      "time_saved": "2022-09-14 - 08:00:07"
+    },
+    {
+      "id": "urn:dr:drupal:article:f1812b6e-e0e5-4c45-ab8d-5430c2d4e43c",
+      "title": "Søren Pape Poulsen skal skilles fra sin mand",
+      "url": "https://www.dr.dk/nyheder/seneste/soeren-pape-poulsen-skal-skilles-fra-sin-mand",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 05:13:00 GMT",
+      "time_saved": "2022-09-14 - 08:00:07"
+    },
+    {
+      "id": "urn:dr:drupal:article:20b4faf4-a83c-440b-883f-ba45d63969ca",
+      "title": "Zelenskyj: Vi har generobret 8.000 kvadratkilometer land",
+      "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-vi-har-generobret-8000-kvadratkilometer-land",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 05:11:00 GMT",
+      "time_saved": "2022-09-14 - 08:00:07"
+    },
+    {
+      "id": "urn:dr:drupal:article:4cb098c9-0a9d-479b-be31-b9e99984c050",
+      "title": "Svensk valgresultat ventes at komme i dag",
+      "url": "https://www.dr.dk/nyheder/seneste/svensk-valgresultat-ventes-komme-i-dag",
+      "is_breaking": false,
+      "seq": "Wed, 14 Sep 2022 05:01:00 GMT",
+      "time_saved": "2022-09-14 - 08:00:07"
     }
   ]
 }
