@@ -3993,6 +3993,38 @@
       "is_breaking": false,
       "seq": "Thu, 15 Sep 2022 06:04:00 GMT",
       "time_saved": "2022-09-15 - 09:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:bb9d2b1f-10f4-4ebd-b7bd-f09091668432",
+      "title": "Vladimir Putin er ankommet til topmøde i Usbekistan",
+      "url": "https://www.dr.dk/nyheder/seneste/vladimir-putin-er-ankommet-til-topmoede-i-usbekistan",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 07:31:00 GMT",
+      "time_saved": "2022-09-15 - 10:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:db68579a-fb32-4ca8-bcfd-29b5f4f48bd5",
+      "title": "AaB ansætter tidligere mestertræner som Friis-erstatning",
+      "url": "https://www.dr.dk/sporten/seneste-sport/aab-ansaetter-tidligere-mestertraener-som-friis-erstatning",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 07:26:00 GMT",
+      "time_saved": "2022-09-15 - 10:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:644568ac-dded-4976-81ef-a76141713a94",
+      "title": "Milliardfirma gives væk for at redde kloden",
+      "url": "https://www.dr.dk/nyheder/seneste/milliardfirma-gives-vaek-redde-kloden",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 07:21:00 GMT",
+      "time_saved": "2022-09-15 - 10:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:2fe31975-710f-4e88-8aa3-6210500aa627",
+      "title": "AaB fyrer cheftræner Lars Friis",
+      "url": "https://www.dr.dk/sporten/seneste-sport/aab-fyrer-cheftraener-lars-friis",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 07:03:00 GMT",
+      "time_saved": "2022-09-15 - 10:00:03"
     }
   ]
 }
