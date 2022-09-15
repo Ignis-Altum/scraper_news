@@ -4065,6 +4065,22 @@
       "is_breaking": false,
       "seq": "Thu, 15 Sep 2022 10:08:00 GMT",
       "time_saved": "2022-09-15 - 13:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:7c2f3ede-c8a8-4870-b025-1a00f2ef9ce7",
+      "title": "Dansk robotteknologi skal med på Mars-mission",
+      "url": "https://www.dr.dk/nyheder/seneste/dansk-robotteknologi-skal-med-paa-mars-mission",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 11:33:00 GMT",
+      "time_saved": "2022-09-15 - 14:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:8b043c88-92bf-4469-80fe-cdb2190174ba",
+      "title": "Ung soldat slipper for lang fængselsstraf, efter han tog håndgranat med hjem",
+      "url": "https://www.dr.dk/nyheder/seneste/ung-soldat-slipper-lang-faengselsstraf-efter-han-tog-haandgranat-med-hjem",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 11:12:00 GMT",
+      "time_saved": "2022-09-15 - 14:00:04"
     }
   ]
 }
