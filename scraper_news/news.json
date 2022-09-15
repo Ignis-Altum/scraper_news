@@ -3921,6 +3921,22 @@
       "is_breaking": false,
       "seq": "Wed, 14 Sep 2022 21:59:00 GMT",
       "time_saved": "2022-09-15 - 01:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:3407900f-bf4c-465f-ac41-64e7cc478671",
+      "title": "Cyklistforbundet vil have ny mærkning på vejene",
+      "url": "https://www.dr.dk/nyheder/seneste/cyklistforbundet-vil-have-ny-maerkning-paa-vejene",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 03:54:00 GMT",
+      "time_saved": "2022-09-15 - 06:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:c0ff43c9-933e-482f-a8dc-f0019544123e",
+      "title": "Armenien hævder at have indgået våbenhvile med Aserbajdsjan",
+      "url": "https://www.dr.dk/nyheder/seneste/armenien-haevder-have-indgaaet-vaabenhvile-med-aserbajdsjan",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 03:29:00 GMT",
+      "time_saved": "2022-09-15 - 06:00:03"
     }
   ]
 }
