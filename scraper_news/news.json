@@ -4025,6 +4025,22 @@
       "is_breaking": false,
       "seq": "Thu, 15 Sep 2022 07:03:00 GMT",
       "time_saved": "2022-09-15 - 10:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:6ff2f15f-a1ef-4353-a211-b836b2ad02c0",
+      "title": "Politiet skød, da formodet traktortyv forsøgte at flygte",
+      "url": "https://www.dr.dk/nyheder/seneste/politiet-skoed-da-formodet-traktortyv-forsoegte-flygte",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 08:21:00 GMT",
+      "time_saved": "2022-09-15 - 11:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:59bcbf56-928a-4e8d-99a9-3571bfa73aa2",
+      "title": "Statens Serum Institut: God idé at ældre og sårbare får booster-vaccine inden efterårs-bølge",
+      "url": "https://www.dr.dk/nyheder/seneste/statens-serum-institut-god-ide-aeldre-og-saarbare-faar-booster-vaccine-inden",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 08:10:00 GMT",
+      "time_saved": "2022-09-15 - 11:00:04"
     }
   ]
 }
