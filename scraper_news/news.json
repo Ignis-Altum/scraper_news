@@ -4081,6 +4081,54 @@
       "is_breaking": false,
       "seq": "Thu, 15 Sep 2022 11:12:00 GMT",
       "time_saved": "2022-09-15 - 14:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:d6665d63-61a7-42f9-89a8-8e9433f35cd4",
+      "title": "Erik Hamrén er tilbage: 'AaB har en særlig plads i mit hjerte'",
+      "url": "https://www.dr.dk/sporten/seneste-sport/erik-hamren-er-tilbage-aab-har-en-saerlig-plads-i-mit-hjerte",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 12:49:00 GMT",
+      "time_saved": "2022-09-15 - 15:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:c5b7d583-d44a-466c-b6aa-d5749fc9826a",
+      "title": "Tyrkiske blomsteravlere sender 500.000 blomster til London inden dronningebegravelse",
+      "url": "https://www.dr.dk/nyheder/seneste/tyrkiske-blomsteravlere-sender-500000-blomster-til-london-inden-dronningebegravelse",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 12:44:00 GMT",
+      "time_saved": "2022-09-15 - 15:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:eea8dd67-7023-41f9-8774-cfc1260cb750",
+      "title": "Putin og Xi mødes i Usbekistan",
+      "url": "https://www.dr.dk/nyheder/seneste/putin-og-xi-moedes-i-usbekistan",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 12:36:00 GMT",
+      "time_saved": "2022-09-15 - 15:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:98e53df8-e092-457a-a0e0-2ed9ebfcc1ec",
+      "title": "Svensk partileder træder tilbage efter vælgerlussing",
+      "url": "https://www.dr.dk/nyheder/seneste/svensk-partileder-traeder-tilbage-efter-vaelgerlussing",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 12:32:00 GMT",
+      "time_saved": "2022-09-15 - 15:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:5f353bef-97db-49ff-a43e-8e81a896b4fe",
+      "title": "Kulturministeren går ind i sag om kuldsejlet byggeri på slot",
+      "url": "https://www.dr.dk/nyheder/seneste/kulturministeren-gaar-ind-i-sag-om-kuldsejlet-byggeri-paa-slot",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 12:14:00 GMT",
+      "time_saved": "2022-09-15 - 15:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:849ea7a2-0e6a-49a0-b598-4542d254c2ff",
+      "title": "Russisk sejler kæntrede nord for Hvide Sande - søger nu asyl i Danmark",
+      "url": "https://www.dr.dk/nyheder/seneste/russisk-sejler-kaentrede-nord-hvide-sande-soeger-nu-asyl-i-danmark",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 12:00:00 GMT",
+      "time_saved": "2022-09-15 - 15:00:04"
     }
   ]
 }
