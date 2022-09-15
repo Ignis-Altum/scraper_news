@@ -2255,6 +2255,14 @@
       "is_breaking": true,
       "seq": 104744,
       "time_saved": "2022-09-14 - 16:00:02"
+    },
+    {
+      "id": "0fcb5c1e05a7fdab9bb37cf9ef7dd789cacf947f",
+      "title": "Roger Federer stopper karrieren",
+      "url": "http://sport.tv2.dk/tennis/2022-09-15-roger-federer-stopper-karrieren",
+      "is_breaking": true,
+      "seq": 104762,
+      "time_saved": "2022-09-15 - 16:00:03"
     }
   ],
   "dr": [
@@ -4129,6 +4137,14 @@
       "is_breaking": false,
       "seq": "Thu, 15 Sep 2022 12:00:00 GMT",
       "time_saved": "2022-09-15 - 15:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:e0ef3cb9-63c1-4ef8-8829-88a73fd88101",
+      "title": "Roger Federer stopper karrieren",
+      "url": "https://www.dr.dk/sporten/seneste-sport/roger-federer-stopper-karrieren",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 13:22:00 GMT",
+      "time_saved": "2022-09-15 - 16:00:04"
     }
   ]
 }
