@@ -3977,6 +3977,22 @@
       "is_breaking": false,
       "seq": "Thu, 15 Sep 2022 05:39:00 GMT",
       "time_saved": "2022-09-15 - 08:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:9af4d66c-4a87-4424-b881-d56bf0cd779b",
+      "title": "Torsdag bliver endnu en dag med byger",
+      "url": "https://www.dr.dk/nyheder/seneste/torsdag-bliver-endnu-en-dag-med-byger",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 06:31:00 GMT",
+      "time_saved": "2022-09-15 - 09:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:b6eaae48-d1c2-4655-b9e7-4ed083362e98",
+      "title": "Mange togaflysninger rammer USA efter strejkevarsel",
+      "url": "https://www.dr.dk/nyheder/seneste/mange-togaflysninger-rammer-usa-efter-strejkevarsel",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 06:04:00 GMT",
+      "time_saved": "2022-09-15 - 09:00:03"
     }
   ]
 }
