@@ -2271,6 +2271,14 @@
       "is_breaking": true,
       "seq": 104767,
       "time_saved": "2022-09-15 - 17:00:03"
+    },
+    {
+      "id": "205a067e42725a1d25c1f26352fd9ea900298bed",
+      "title": "Tidligere FE-chef Lars Findsen er blevet tiltalt",
+      "url": "http://nyheder.tv2.dk/krimi/2022-09-16-tidligere-fe-chef-lars-findsen-er-blevet-tiltalt",
+      "is_breaking": true,
+      "seq": 104774,
+      "time_saved": "2022-09-16 - 12:00:03"
     }
   ],
   "dr": [
@@ -4201,6 +4209,422 @@
       "is_breaking": false,
       "seq": "Thu, 15 Sep 2022 15:12:00 GMT",
       "time_saved": "2022-09-15 - 18:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:5a4f7859-b888-432c-b714-6f09a3711382",
+      "title": "Bomberydningsrobotter skal sendes fra Danmark til Ukraine",
+      "url": "https://www.dr.dk/nyheder/seneste/bomberydningsrobotter-skal-sendes-fra-danmark-til-ukraine",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 16:43:00 GMT",
+      "time_saved": "2022-09-15 - 19:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:94b543b1-2f0f-433b-bd8a-e11d30cea43a",
+      "title": "Putin anerkender Kinas bekymringer over situationen i Ukraine",
+      "url": "https://www.dr.dk/nyheder/seneste/putin-anerkender-kinas-bekymringer-over-situationen-i-ukraine",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 17:49:00 GMT",
+      "time_saved": "2022-09-15 - 20:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:51667131-9452-4999-9714-ae26de9668cc",
+      "title": "Danske forskere udvikler robotarm, der hurtigt kan skanne gigtpatienter",
+      "url": "https://www.dr.dk/nyheder/seneste/danske-forskere-udvikler-robotarm-der-hurtigt-kan-skanne-gigtpatienter",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 17:45:00 GMT",
+      "time_saved": "2022-09-15 - 20:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:7333425f-0449-4f02-a486-077ef121b103",
+      "title": "Rikke Mæng skyder sig til EM-guld og OL-billet",
+      "url": "https://www.dr.dk/sporten/seneste-sport/rikke-maeng-skyder-sig-til-em-guld-og-ol-billet",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 17:37:00 GMT",
+      "time_saved": "2022-09-15 - 20:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:879eda10-16de-4eaf-abe1-8207a2da7e26",
+      "title": "FC Midtjylland tæsker italiensk storhold i Europa League",
+      "url": "https://www.dr.dk/sporten/seneste-sport/fc-midtjylland-taesker-italiensk-storhold-i-europa-league",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 18:35:00 GMT",
+      "time_saved": "2022-09-15 - 21:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:197829e3-f960-4fda-b9ce-85ef044e8cc6",
+      "title": "Biden inviterer Mette Frederiksen til besøg i Det Hvide Hus",
+      "url": "https://www.dr.dk/nyheder/seneste/biden-inviterer-mette-frederiksen-til-besoeg-i-det-hvide-hus",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 18:06:00 GMT",
+      "time_saved": "2022-09-15 - 21:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:e7befdfa-c258-41e2-a47c-c383f3cf0c4f",
+      "title": "Tohovedet slange spottet i Danmark",
+      "url": "https://www.dr.dk/nyheder/seneste/tohovedet-slange-spottet-i-danmark",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 19:51:00 GMT",
+      "time_saved": "2022-09-15 - 22:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:123501ad-48bf-4f37-9644-d882e25ad0ec",
+      "title": "Eriksen bidrog med oplæg i Manchester United-sejr i Moldova",
+      "url": "https://www.dr.dk/sporten/seneste-sport/eriksen-bidrog-med-oplaeg-i-manchester-united-sejr-i-moldova",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 19:25:00 GMT",
+      "time_saved": "2022-09-15 - 22:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:a7c4b468-f6cc-49cd-a341-9d22fe9f369e",
+      "title": "Video fra angreb i Nice vist for første gang",
+      "url": "https://www.dr.dk/nyheder/seneste/video-fra-angreb-i-nice-vist-foerste-gang",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 19:14:00 GMT",
+      "time_saved": "2022-09-15 - 22:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:8758b74a-41e6-4b30-8f0c-967415cfd295",
+      "title": "Pave Frans kommer med opfordring til verdens ledere",
+      "url": "https://www.dr.dk/nyheder/seneste/pave-frans-kommer-med-opfordring-til-verdens-ledere",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 18:58:00 GMT",
+      "time_saved": "2022-09-15 - 22:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:872718fd-c673-44e4-98e6-f859025b75db",
+      "title": "Omkring 1,6 millioner evakueret fra kraftig tyfon i Shanghai",
+      "url": "https://www.dr.dk/nyheder/seneste/omkring-16-millioner-evakueret-fra-kraftig-tyfon-i-shanghai",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 20:08:00 GMT",
+      "time_saved": "2022-09-15 - 23:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:3444dc08-a197-471c-8143-527d98c262ef",
+      "title": "Biden vil styrke USA's brug af havvind",
+      "url": "https://www.dr.dk/nyheder/seneste/biden-vil-styrke-usas-brug-af-havvind",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 21:54:00 GMT",
+      "time_saved": "2022-09-16 - 00:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:8b524df2-b216-4359-95b8-39fec712dd7e",
+      "title": "Massegrav med 440 grave fundet i befriet ukrainsk by",
+      "url": "https://www.dr.dk/nyheder/seneste/massegrav-med-440-grave-fundet-i-befriet-ukrainsk",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 21:11:00 GMT",
+      "time_saved": "2022-09-16 - 00:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:08a2a788-d4a7-46a8-a59b-bf4fcd06b62c",
+      "title": "Silkeborg chokstartede, men tabte alligevel til West Ham",
+      "url": "https://www.dr.dk/sporten/seneste-sport/silkeborg-chokstartede-men-tabte-alligevel-til-west-ham",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 21:02:00 GMT",
+      "time_saved": "2022-09-16 - 00:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:8b524df2-b216-4359-95b8-39fec712dd7e",
+      "title": "Massegrav med 440 døde fundet i befriet ukrainsk by",
+      "url": "https://www.dr.dk/nyheder/seneste/massegrav-med-440-grave-fundet-i-befriet-ukrainsk",
+      "is_breaking": false,
+      "seq": "Thu, 15 Sep 2022 21:11:00 GMT",
+      "time_saved": "2022-09-16 - 01:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:5fd6b8f0-ddd7-4f8c-a492-452cfb79c25b",
+      "title": "USA vil sende militær hjælpepakke på 4,5 milliarder kroner til Ukraine",
+      "url": "https://www.dr.dk/nyheder/seneste/usa-vil-sende-militaer-hjaelpepakke-paa-45-milliarder-kroner-til-ukraine",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 03:43:00 GMT",
+      "time_saved": "2022-09-16 - 06:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:fa386b4a-4576-46a4-9582-1fd0de0e2e73",
+      "title": "Xi Jinping mødes for første gang med Irans præsident ",
+      "url": "https://www.dr.dk/nyheder/seneste/xi-jinping-moedes-foerste-gang-med-irans-praesident",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 04:53:00 GMT",
+      "time_saved": "2022-09-16 - 07:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:cfeecb8a-eb2d-4405-a8c3-e9e61050d388",
+      "title": "Tyfon får mere end halvanden million kinesere til at forlade deres hjem",
+      "url": "https://www.dr.dk/nyheder/seneste/tyfon-faar-mere-end-halvanden-million-kinesere-til-forlade-deres-hjem",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 04:05:00 GMT",
+      "time_saved": "2022-09-16 - 07:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:61dc4772-2c20-4501-938a-aa2948426eef",
+      "title": "Forretningsudvalg hasteindkaldt til krisemøde i Region Sjælland",
+      "url": "https://www.dr.dk/nyheder/seneste/forretningsudvalg-hasteindkaldt-til-krisemoede-i-region-sjaelland",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 05:56:00 GMT",
+      "time_saved": "2022-09-16 - 08:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:f3c3e458-15b0-49eb-99e6-1191968c6e1b",
+      "title": "Dagen starter skyet, men senere kommer der sol",
+      "url": "https://www.dr.dk/nyheder/seneste/dagen-starter-skyet-men-senere-kommer-der-sol",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 05:27:00 GMT",
+      "time_saved": "2022-09-16 - 08:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:2fd502ad-8032-465a-815d-1b5b241a413a",
+      "title": "Skive Kommune ender med at betale 700.000 kroner for Obama-besøg",
+      "url": "https://www.dr.dk/nyheder/seneste/skive-kommune-ender-med-betale-700000-kroner-obama-besoeg",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 06:48:00 GMT",
+      "time_saved": "2022-09-16 - 09:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:7678c47c-0b29-487b-bf93-8e85f4faf20a",
+      "title": "SAS vil gøre flyrejser mere bæredygtige med elektriske fly",
+      "url": "https://www.dr.dk/nyheder/seneste/sas-vil-goere-flyrejser-mere-baeredygtige-med-elektriske-fly",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 06:38:00 GMT",
+      "time_saved": "2022-09-16 - 09:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:4b8ea73e-fde6-4320-a325-51894d16deeb",
+      "title": "Helsingørmotorvejen spærret i nordgående retning",
+      "url": "https://www.dr.dk/nyheder/seneste/helsingoermotorvejen-spaerret-i-nordgaaende-retning",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 06:29:00 GMT",
+      "time_saved": "2022-09-16 - 09:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:01e622ae-98b9-46ae-8814-adf12393ff32",
+      "title": "Ikonisk baskettrøje solgt for rekordbeløb",
+      "url": "https://www.dr.dk/sporten/seneste-sport/ikonisk-michael-jordan-troeje-solgt-svimlende-beloeb",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 05:58:00 GMT",
+      "time_saved": "2022-09-16 - 09:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:b0e57c8e-8e28-4cdf-b18f-957f03b9f007",
+      "title": "Kraftige regnskyl og oversvømmelser koster flere mennesker livet i Italien",
+      "url": "https://www.dr.dk/nyheder/seneste/kraftige-regnskyl-og-oversvoemmelser-koster-flere-mennesker-livet-i-italien",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 07:39:00 GMT",
+      "time_saved": "2022-09-16 - 10:00:05"
+    },
+    {
+      "id": "urn:dr:drupal:article:a3c891e2-3b5d-4041-a64e-4c40295f49cf",
+      "title": "Fodboldklubben AGF ruller kebaben ind på stadion",
+      "url": "https://www.dr.dk/nyheder/seneste/fodboldklubben-agf-ruller-kebaben-ind-paa-stadion",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 07:36:00 GMT",
+      "time_saved": "2022-09-16 - 10:00:05"
+    },
+    {
+      "id": "urn:dr:drupal:article:4ed98afb-cbaa-4d8a-b7a0-bc1e93911bd3",
+      "title": "Stigende oliepriser får Læsøfærgen til at aflyse syv afgange",
+      "url": "https://www.dr.dk/nyheder/seneste/stigende-oliepriser-faar-laesoefaergen-til-aflyse-syv-afgange",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 07:24:00 GMT",
+      "time_saved": "2022-09-16 - 10:00:05"
+    },
+    {
+      "id": "urn:dr:drupal:article:93e492fc-002f-4067-a348-41b2053010dc",
+      "title": "Udslip af eddikesyre: Borgere i Frøslev på Mors skal holde sig indendøre",
+      "url": "https://www.dr.dk/nyheder/seneste/udslip-af-eddikesyre-borgere-i-froeslev-paa-mors-skal-holde-sig-indendoere",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 07:17:00 GMT",
+      "time_saved": "2022-09-16 - 10:00:05"
+    },
+    {
+      "id": "urn:dr:drupal:article:ba334bed-c4d0-4d17-a839-e70a18540eb5",
+      "title": "Helsingørmotorvejen er igen åben",
+      "url": "https://www.dr.dk/nyheder/seneste/helsingoermotorvejen-er-igen-aaben",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 07:16:00 GMT",
+      "time_saved": "2022-09-16 - 10:00:05"
+    },
+    {
+      "id": "urn:dr:drupal:article:793fe83b-eb11-49b4-826a-3723a2c6ce8c",
+      "title": "Mette Frederiksen rejser til USA på mandag for at deltage i FN's generalforsamling og grønt erhvervsinitiativ",
+      "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-rejser-til-usa-paa-mandag-deltage-i-fns-generalforsamling-og",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 08:43:00 GMT",
+      "time_saved": "2022-09-16 - 11:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:461ff7d1-e766-4f01-bc05-0b998886475f",
+      "title": "Det er igen muligt at færdes i Frøslev på Mors efter udslip af eddikesyre",
+      "url": "https://www.dr.dk/nyheder/seneste/det-er-igen-muligt-faerdes-i-froeslev-paa-mors-efter-udslip-af-eddikesyre",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 08:40:00 GMT",
+      "time_saved": "2022-09-16 - 11:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:b3b641ee-46af-4d21-b32d-11313466bd53",
+      "title": "Fem elever bortvist fra gymnasium i Kolding for at lave 'nedsættende' rangliste over 1.g-piger",
+      "url": "https://www.dr.dk/nyheder/seneste/fem-elever-bortvist-fra-gymnasium-i-kolding-lave-nedsaettende-rangliste-over-1g",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 08:39:00 GMT",
+      "time_saved": "2022-09-16 - 11:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:bb6f999c-0674-414a-871c-67b684718176",
+      "title": "I dag rammer elprisen det laveste niveau siden slutningen af august",
+      "url": "https://www.dr.dk/nyheder/seneste/i-dag-rammer-elprisen-det-laveste-niveau-siden-slutningen-af-august",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 08:37:00 GMT",
+      "time_saved": "2022-09-16 - 11:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:7a36a04d-368c-4fef-93f5-d034544f36f2",
+      "title": "Kronprinsesse Mary skal alligevel ikke med til dronning Elizabeths begravelse",
+      "url": "https://www.dr.dk/nyheder/seneste/kronprinsesse-mary-skal-alligevel-ikke-med-til-dronning-elizabeths-begravelse",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 08:34:00 GMT",
+      "time_saved": "2022-09-16 - 11:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:dcfb1584-933c-47b1-8eac-0b43c70b253f",
+      "title": "Tidligere FE-chef er blevet tiltalt for læk af højt klassificerede oplysninger",
+      "url": "https://www.dr.dk/nyheder/seneste/tidligere-fe-chef-er-blevet-tiltalt-laek-af-hoejt-klassificerede-oplysninger",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 09:53:00 GMT",
+      "time_saved": "2022-09-16 - 12:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:8363db66-89c1-4b89-b7c3-6eb1ef8e0552",
+      "title": "Wammen: Næste skridt kan være at se på elafgiften",
+      "url": "https://www.dr.dk/nyheder/seneste/wammen-naeste-skridt-kan-vaere-se-paa-elafgiften",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 09:19:00 GMT",
+      "time_saved": "2022-09-16 - 12:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:4bc290b5-3a53-4358-9465-7212122da84d",
+      "title": "Se billederne: Nye hurtigtog bliver vist frem i Frankrig",
+      "url": "https://www.dr.dk/nyheder/seneste/se-billederne-nye-hurtigtog-bliver-vist-frem-i-frankrig",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 09:15:00 GMT",
+      "time_saved": "2022-09-16 - 12:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:b2b167ed-b05f-4470-b8c6-6c86aceb4800",
+      "title": "To politibetjente er indlagt efter knivstikkeri i London",
+      "url": "https://www.dr.dk/nyheder/seneste/politibetjente-er-indlagt-efter-knivstikkeri-i-london",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 09:04:00 GMT",
+      "time_saved": "2022-09-16 - 12:00:04"
+    },
+    {
+      "id": "urn:dr:drupal:article:21c4ab82-dfe1-49ef-bac3-16f11623bdf9",
+      "title": "Holger Rune begræder tennislegendes karrierestop",
+      "url": "https://www.dr.dk/sporten/seneste-sport/holger-rune-begraeder-tennislegendes-karrierestop",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 10:47:00 GMT",
+      "time_saved": "2022-09-16 - 13:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:c1acd558-7642-46c9-a3b0-528d31cfbea5",
+      "title": "Minister vil lempe krav og sætte ambassader i arbejde for at skaffe flere træpiller til Danmark",
+      "url": "https://www.dr.dk/nyheder/seneste/minister-vil-lempe-krav-og-saette-ambassader-i-arbejde-skaffe-flere-traepiller-til",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 10:41:00 GMT",
+      "time_saved": "2022-09-16 - 13:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:5fc0034f-00bd-4057-b0e6-d9af7e1ba52c",
+      "title": "Ventetiden for at se dronning Elizabeths kiste er på 14 timer, og nu er køen midlertidigt lukket",
+      "url": "https://www.dr.dk/nyheder/seneste/ventetiden-se-dronning-elizabeths-kiste-er-paa-14-timer-og-nu-er-koeen-midlertidigt",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 10:23:00 GMT",
+      "time_saved": "2022-09-16 - 13:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:1a639678-9c77-4911-a8ce-1548fa7d80d2",
+      "title": "Den folkekære tv-vært Poul Thomsen er død, 84 år gammel",
+      "url": "https://www.dr.dk/nyheder/seneste/den-folkekaere-tv-vaert-poul-thomsen-er-doed-84-aar-gammel",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 10:16:00 GMT",
+      "time_saved": "2022-09-16 - 13:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:820389a4-bbb1-40f7-af58-8e4a3bef4cdf",
+      "title": "Paven deltager ikke i dronning Elizabeths begravelse",
+      "url": "https://www.dr.dk/nyheder/seneste/paven-deltager-ikke-i-dronning-elizabeths-begravelse",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 11:54:00 GMT",
+      "time_saved": "2022-09-16 - 14:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:ceeffe96-1e64-4c61-b51e-2ffbfa7952ba",
+      "title": "FCK udelukker 12 baneløbere efter guldkamp",
+      "url": "https://www.dr.dk/sporten/seneste-sport/fck-udelukker-12-baneloebere-efter-guldkamp",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 11:37:00 GMT",
+      "time_saved": "2022-09-16 - 14:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:c71877e3-ef18-4adc-baad-c47365911010",
+      "title": "Odense Zoo vil bygge nyt Asien-anlæg for 100 millioner kroner",
+      "url": "https://www.dr.dk/nyheder/seneste/odense-zoo-vil-bygge-nyt-asien-anlaeg-100-millioner-kroner",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 11:28:00 GMT",
+      "time_saved": "2022-09-16 - 14:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:83ad8506-7245-4714-8092-fe1b3bd8e7ef",
+      "title": "Krisemøde ender med kritik af koncerndirektionen i Region Sjælland",
+      "url": "https://www.dr.dk/nyheder/seneste/krisemoede-ender-med-kritik-af-koncerndirektionen-i-region-sjaelland",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 11:24:00 GMT",
+      "time_saved": "2022-09-16 - 14:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:c1dcecdb-0d2f-421e-a358-2b9b8637eae7",
+      "title": "Nu er 94.000 spritnye ejendomsvurderinger landet",
+      "url": "https://www.dr.dk/nyheder/seneste/nu-er-94000-spritnye-ejendomsvurderinger-landet",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 12:26:00 GMT",
+      "time_saved": "2022-09-16 - 15:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:89cb9a7d-dd41-4e0c-88be-29f645db503d",
+      "title": "Uffe Elbæk har meldt sig ud af Frie Grønne, som han selv stiftede: Nu vil han tilbage i Alternativet",
+      "url": "https://www.dr.dk/nyheder/seneste/uffe-elbaek-har-meldt-sig-ud-af-frie-groenne-som-han-selv-var-med-til-starte",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 12:13:00 GMT",
+      "time_saved": "2022-09-16 - 15:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:51c91861-3c9c-4175-a154-6493caf80015",
+      "title": "Dansk cykeltalent vinder etape i Luxembourg og napper førertrøjen ",
+      "url": "https://www.dr.dk/sporten/seneste-sport/dansk-cykeltalent-vinder-etape-i-luxembourg-og-napper-foerertroejen",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 14:13:00 GMT",
+      "time_saved": "2022-09-16 - 17:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:7c5afee6-5d74-4011-8874-04727245aaae",
+      "title": "16.500 har fået invitation om vaccination med forkerte oplysninger",
+      "url": "https://www.dr.dk/nyheder/seneste/16500-har-faaet-invitation-om-vaccination-med-forkerte-oplysninger",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 14:01:00 GMT",
+      "time_saved": "2022-09-16 - 17:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:b30b0348-a67d-4d43-b839-161db918d5a9",
+      "title": "Radikale: Aftale om indefrysning af energiregninger kan lande allerede i næste uge",
+      "url": "https://www.dr.dk/nyheder/seneste/radikale-aftale-om-indefrysning-af-energiregninger-kan-lande-allerede-i-naeste-uge",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 15:41:00 GMT",
+      "time_saved": "2022-09-16 - 18:00:03"
+    },
+    {
+      "id": "urn:dr:drupal:article:ba7a4f8b-c002-4199-908f-6321709de440",
+      "title": "Ny forskning: Stort morgenmåltid er bedre end stor middag, hvis du vil tabe dig",
+      "url": "https://www.dr.dk/nyheder/seneste/ny-forskning-stort-morgenmaaltid-er-bedre-end-stor-middag-hvis-du-vil-tabe-dig",
+      "is_breaking": false,
+      "seq": "Fri, 16 Sep 2022 15:21:00 GMT",
+      "time_saved": "2022-09-16 - 18:00:03"
     }
   ]
 }
